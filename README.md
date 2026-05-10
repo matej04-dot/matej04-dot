@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Petar
+## 👋 Hi, I'm Matej
 
 🎓 Third-year Computer Science student at FSRE Mostar
 
@@ -21,16 +21,6 @@ Most of my work revolves around:
 - Turning ideas into systems that behave realistically over time
 
 You can find different projects on my profile that reflect this — some more complete, some more experimental.
-
-### 🚗 Carlytics
-
-**Production-style system for managing vehicles, services, incidents and operational activity**
-
-Carlytics is built around real-world logic rather than just features.
-
-- Focus on well-structured data and clear relationships
-- Designed to reflect how such a system would actually be used
-- Emphasis on behaviour and consistency, not just functionality
 
 ---
 
@@ -55,7 +45,3 @@ Once that is clear, implementation becomes much more straightforward.
 - Building systems that feel closer to real products than assignments
 
 ---
-
-## 📫 Get in touch
-
-- **LinkedIn:** [Petar Krvavac](https://linkedin.com/in/petar-krvavac)
