@@ -80,14 +80,4 @@ A modern book discovery and management application built with **TypeScript**.
 **Tech Stack:** TypeScript • Next.js
 
 ---
-
-## 👥 Collaborators
-
-**ZOO_app** team:
-- Matej Kraljević
-- Petar Krvavac
-- Andro Buhač
-- Filip Komlen
-- Mateo Azinović
-
-Computer Science Students @ FSRE Mostar
+Computer Science Student @ FSRE Mostar
