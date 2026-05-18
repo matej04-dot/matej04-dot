@@ -8,7 +8,7 @@ Third-year Computer Science student at FSRE Mostar. I focus on understanding pro
 
 ## 🎯 Interests
 
-`Backend Systems` · `Database Design` · `System Architecture` · `Data Science` · `Platform Engineering` · `DevOps`
+`Backend Systems` · `Database Design` · `System Architecture` · `Data Science`
 
 ---
 
@@ -34,14 +34,6 @@ Zoo operations management platform with intelligent task scheduling and analytic
 Book discovery and management application.
 - **Live Demo:** https://bookify-tau-five.vercel.app
 - **Tech:** Next.js, React, TypeScript, Firebase, TailwindCSS, Upstash Redis
-
----
-
-## 🌱 Currently Learning
-
-- **Pandas** for data science and data manipulation
-- Advanced system design and scalability patterns
-- Data engineering fundamentals
 
 ---
 
