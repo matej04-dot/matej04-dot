@@ -2,22 +2,23 @@
 
 🚀 **Backend Engineer** | Database Architect | Problem Solver
 
-Third-year Computer Science student at FSRE Mostar. I focus on understanding problems before solving them—especially data models and system design. I build things that work like real products, not just assignments. Structured approach over quick fixes.
+Third-year Computer Science student at FSRE Mostar. I focus on understanding problems before solving them—especially data models and system design. I build things that work like real products, not just prototypes.
 
 ---
 
 ## 🎯 Interests
 
-`AI/ML` · `Data Science` · `DevOps` · `IoT/Edge Computing` · `Platform Engineering` · `Backend Systems`
+`Backend Systems` · `Database Design` · `System Architecture` · `Data Science` · `Platform Engineering` · `DevOps`
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** `Java` · `Python` · `TypeScript` · `SQL`  
-**Backend:** `Spring Boot` · `REST APIs` · `Microservices`  
-**Databases:** `PostgreSQL` · `MongoDB`  
-**DevOps & Tools:** `Docker` · `AWS` · `Git`
+**Languages:** `TypeScript` · `C#` · `Python` · `SQL` · `Kotlin` · `C`  
+**Frontend:** `Next.js` · `React` · `Material UI` · `TailwindCSS`  
+**Backend:** `ASP.NET Core` · `REST APIs` · `.NET`  
+**Databases:** `SQL Server` · `Firebase`  
+**DevOps & Tools:** `Git` · `Vercel`
 
 ---
 
@@ -26,20 +27,20 @@ Third-year Computer Science student at FSRE Mostar. I focus on understanding pro
 ### [ZOO_app](https://github.com/matej04-dot/ZOO_app)
 Zoo operations management platform with intelligent task scheduling and analytics.
 - **16 controllers** • **144 REST endpoints** • Smart scheduling with conflict detection
-- **Tech:** Spring Boot, PostgreSQL, Docker, AWS
+- **Tech:** ASP.NET Core, .NET 10, SQL Server, Next.js, TypeScript, Material UI
 - Animal registry, enclosure management, worker scheduling, incident tracking, expense management
 
 ### [bookify](https://github.com/matej04-dot/bookify)
 Book discovery and management application.
 - **Live Demo:** https://bookify-tau-five.vercel.app
-- **Tech:** TypeScript, React, Backend API
+- **Tech:** Next.js, React, TypeScript, Firebase, TailwindCSS, Upstash Redis
 
 ---
 
 ## 🌱 Currently Learning
 
+- **Pandas** for data science and data manipulation
 - Advanced system design and scalability patterns
-- Cloud architecture and deployment optimization
 - Data engineering fundamentals
 
 ---
