@@ -1,33 +1,56 @@
-## Hi, I'm Matej
+# Hi, I'm Matej 👋
 
-Third-year Computer Science student at FSRE Mostar. I focus on understanding problems before solving them — especially when it comes to data models and how systems work together.
+🚀 **Backend Engineer** | Database Architect | Problem Solver
 
-I'm interested in building things that work like real products, not just assignments. I prefer a structured approach over quick fixes.
-
----
-
-## What I'm working on
-
-- Backend development and database design
-- Building systems that are well thought through
-- Understanding how different parts connect and behave
+Third-year Computer Science student at FSRE Mostar. I focus on understanding problems before solving them—especially data models and system design. I build things that work like real products, not just assignments. Structured approach over quick fixes.
 
 ---
 
-## Projects
+## 🎯 Interests
+
+`AI/ML` · `Data Science` · `DevOps` · `IoT/Edge Computing` · `Platform Engineering` · `Backend Systems`
+
+---
+
+## 💻 Tech Stack
+
+**Languages:** `Java` · `Python` · `TypeScript` · `SQL`  
+**Backend:** `Spring Boot` · `REST APIs` · `Microservices`  
+**Databases:** `PostgreSQL` · `MongoDB`  
+**DevOps & Tools:** `Docker` · `AWS` · `Git`
+
+---
+
+## 🔨 Featured Projects
 
 ### [ZOO_app](https://github.com/matej04-dot/ZOO_app)
-
-A zoo operations management platform. It handles animal registry, enclosure management, worker scheduling, task assignment, tours, incident tracking, and expense management.
-
-The backend has 16 controllers with 144 REST endpoints. It includes smart scheduling with conflict detection, recurring task generation, and dashboard analytics.
-
----
+Zoo operations management platform with intelligent task scheduling and analytics.
+- **16 controllers** • **144 REST endpoints** • Smart scheduling with conflict detection
+- **Tech:** Spring Boot, PostgreSQL, Docker, AWS
+- Animal registry, enclosure management, worker scheduling, incident tracking, expense management
 
 ### [bookify](https://github.com/matej04-dot/bookify)
-
-A book discovery and management application.
-
-**Live Demo:** https://bookify-tau-five.vercel.app
+Book discovery and management application.
+- **Live Demo:** https://bookify-tau-five.vercel.app
+- **Tech:** TypeScript, React, Backend API
 
 ---
+
+## 🌱 Currently Learning
+
+- Advanced system design and scalability patterns
+- Cloud architecture and deployment optimization
+- Data engineering fundamentals
+
+---
+
+## 📊 What I Do
+
+- Backend development with focus on scalability
+- Database design and optimization
+- Building systems that solve real problems
+- Understanding how different components work together
+
+---
+
+*"Good code is readable code. Good systems are well-designed systems."*
