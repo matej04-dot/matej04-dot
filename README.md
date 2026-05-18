@@ -31,5 +31,3 @@ A book discovery and management application.
 **Live Demo:** https://bookify-tau-five.vercel.app
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=matej04-dot&show_icons=true&theme=light&hide_border=true)
