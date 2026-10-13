@@ -10,15 +10,6 @@ Third-year Computer Science student at FSRE Mostar. I focus on understanding pro
 
 ---
 
-## 💻 Tech Stack
-
-**Languages:** `TypeScript` · `C#` · `Python` · `SQL` · `Kotlin` · `C`  
-**Frontend:** `Next.js` · `React` · `Material UI` · `TailwindCSS`  
-**Backend:** `ASP.NET Core` · `REST APIs` · `.NET`  
-**Databases:** `SQL Server` · `Firebase`  
-**DevOps & Tools:** `Git` · `Vercel`
-
----
 
 ## 🔨 Featured Projects
 
