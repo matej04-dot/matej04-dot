@@ -1,6 +1,6 @@
 # Hi, I'm Matej 👋
 
-Third-year Computer Science student at FSRE Mostar. I focus on understanding problems before solving them—especially data models and system design. I build things that work like real products, not just prototypes.
+Fourth-year Computer Science student at FSRE Mostar. I focus on understanding problems before solving them—especially data models and system design. I build things that work like real products, not just prototypes.
 
 ---
 
