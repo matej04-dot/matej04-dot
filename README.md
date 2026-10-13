@@ -34,5 +34,3 @@ Book discovery and management application.
 - Understanding how different components work together
 
 ---
-
-*"Good code is readable code. Good systems are well-designed systems."*
